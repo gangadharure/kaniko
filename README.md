@@ -6,6 +6,7 @@
 [![Integration tests](https://github.com/GoogleContainerTools/kaniko/actions/workflows/integration-tests.yaml/badge.svg)](https://github.com/GoogleContainerTools/kaniko/actions/workflows/integration-tests.yaml)
 [![Build images](https://github.com/GoogleContainerTools/kaniko/actions/workflows/images.yaml/badge.svg)](https://github.com/GoogleContainerTools/kaniko/actions/workflows/images.yaml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/GoogleContainerTools/kaniko)](https://goreportcard.com/report/github.com/GoogleContainerTools/kaniko)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgangadharure%2Fkaniko.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgangadharure%2Fkaniko?ref=badge_shield)
 
 ![kaniko logo](logo/Kaniko-Logo.png)
 
@@ -1460,3 +1461,7 @@ Kaniko currently supports `COPY --chown` and `ADD --chown` Dockerfile command. I
 ## References
 
 - [Kaniko - Building Container Images In Kubernetes Without Docker](https://youtu.be/EgwVQN6GNJg).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgangadharure%2Fkaniko.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgangadharure%2Fkaniko?ref=badge_large)
